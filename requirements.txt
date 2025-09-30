@@ -1,15 +1,7 @@
-# Dev environment
-pip
-autopep8
-
-# App
 flask
-
-# AI Agent Dependencies
-Flask-SQLAlchemy
+flask_sqlalchemy
 python-dotenv
-celery
-redis
-facebook-sdk
 google-generativeai
 pydantic-ai
+celery
+redis
