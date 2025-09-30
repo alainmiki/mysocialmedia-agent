@@ -4,3 +4,12 @@ autopep8
 
 # App
 flask
+
+# AI Agent Dependencies
+Flask-SQLAlchemy
+python-dotenv
+celery
+redis
+facebook-sdk
+google-generativeai
+pydantic-ai
